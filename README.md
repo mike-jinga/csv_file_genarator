@@ -19,7 +19,7 @@ This project generates a CSV file containing unique names, surnames, ages, and b
 
 1. **Clone the repository:**
 2 **Configure PHP (if necessary)**
-3. ** Run the web app**: http://localhost/csv-generator/index.php**
+3. ** Run the web app**: http://localhost/php-sqlite/index.php**
 
 ## if successful, as below should be the welcome page
 
